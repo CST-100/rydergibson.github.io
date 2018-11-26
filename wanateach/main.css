@@ -10,14 +10,14 @@ body {
 .logo {
    width: 350px;
    height: 350px;
-   margin-top: 25px;
+   margin-top: 2%;
 }
 
 .header {
    font-size: 80px;
    color: white;
    border-radius: 30px;
-   border: 3px solid red;
+   border: 5px solid red;
    width: 40%;
    padding-top: 30px;
    padding-bottom: 30px;
