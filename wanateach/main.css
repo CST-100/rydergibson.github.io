@@ -14,7 +14,7 @@ body {
 }
 
 .header {
-   font-size: 50%;
+   font-size: 32px;
    color: white;
    border-radius: 3%;
    border: 5px solid red;
@@ -28,19 +28,19 @@ body {
 }
 
 .alert {
-   font-size: 25%;
+   font-size: 24px;
    color: white;
 }
 
 .subl {
    float: left;
-   font-size: 25%;
+   font-size: 18px;
    color: white;
 }
 
 .subr {
    float: right;
-   font-size: 25%;
+   font-size: 18px;
    color: white;
 }
 
